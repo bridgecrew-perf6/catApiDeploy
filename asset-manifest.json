@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/the-cat-api/static/css/main.a75a73e5.css",
-    "main.js": "/the-cat-api/static/js/main.d44046e7.js",
-    "index.html": "/the-cat-api/index.html",
-    "main.a75a73e5.css.map": "/the-cat-api/static/css/main.a75a73e5.css.map",
-    "main.d44046e7.js.map": "/the-cat-api/static/js/main.d44046e7.js.map"
+    "main.css": "/catApiDeploy/static/css/main.a75a73e5.css",
+    "main.js": "/catApiDeploy/static/js/main.d44046e7.js",
+    "index.html": "/catApiDeploy/index.html",
+    "main.a75a73e5.css.map": "/catApiDeploy/static/css/main.a75a73e5.css.map",
+    "main.d44046e7.js.map": "/catApiDeploy/static/js/main.d44046e7.js.map"
   },
   "entrypoints": [
     "static/css/main.a75a73e5.css",
